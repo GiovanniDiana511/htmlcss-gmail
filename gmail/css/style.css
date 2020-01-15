@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+img {
+    width: 50px;
+    display: inline;
+}
+.logo {
+    border-bottom-style: solid;
+    border-width: medium;
+    color: grey;
+    margin-left: 5%;
+    margin-right: 5%;
+    }
+.pulsanti{
+    padding-top: 5px;
+    margin-left: 5%;
+}
+#nome {
+    display: inline;
+    font-size: 30px;
+    color: red;
+    vertical-align: super;
+}
+#vai{
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+h3 {
+    color: white;
+}
+#unread {
+    height: 100px;
+    width: 100px;
+    background-color: darkorange;
+    border-radius: 50%;
+    padding: 10px 15px;
+}
+.testo {
+    border-width: medium;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+body {
+    background-image: url('../img/desk1.jpg');
+    background-size: cover;
+}
+.email {
+    border-width: medium;
+    color: grey;
+    padding: 3px;
+}
+.email{
+    background-color: grey;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#uno{
+    background-color: white;
+    border-style: solid;
+    border-width: thin;
+    color: black;
+}
+#due{
+    background-color: white;
+    border-style: solid;
+    border-width: thin;
+    color: black;
+}
+#tre{
+    background-color: white;
+    border-style: solid;
+    border-width: thin;
+    color: black;
+}
+small {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
